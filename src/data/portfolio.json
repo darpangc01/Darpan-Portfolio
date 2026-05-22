@@ -1,0 +1,50 @@
+{
+  "identity": {
+    "name": "Darpan G.C.",
+    "initials": "DG",
+    "title": "Cybersecurity Professional",
+    "tagline": "Defending Digital Frontiers",
+    "degree": "BSc hons Cybersecurity",
+    "university": "Herald College Kathmandu",
+    "location": "Kathmandu, Nepal",
+    "email": "darpangc01@gmail.com",
+    "github": "https://github.com/darpangc01",
+    "linkedin": "https://www.linkedin.com/in/darpan-g-c-67754a37b/",
+    "bio": "I am a dedicated cybersecurity student passionate about ethical hacking, threat analysis, and building secure systems. I thrive on solving complex security challenges and continuously expanding my knowledge in the ever-evolving landscape of digital security.",
+    "shortBio": "Cybersecurity student. Ethical hacker. Threat analyst."
+  },
+  "skills": [
+    { "category": "Offensive Security", "items": ["Penetration Testing", "Vulnerability Assessment", "Social Engineering", "Exploit Development"] },
+    { "category": "Defensive Security", "items": ["Incident Response", "SIEM & Log Analysis", "Firewall Configuration", "Network Monitoring"] },
+    { "category": "Tools & Platforms", "items": ["Kali Linux", "Metasploit", "Wireshark", "Burp Suite", "Nmap"] },
+    { "category": "Programming", "items": ["Python", "Bash Scripting", "PowerShell", "JavaScript"] }
+  ],
+  "passions": [
+    {
+      "title": "Ethical Hacking",
+      "description": "Pushing boundaries within ethical frameworks to uncover vulnerabilities before malicious actors do. Every system has a weakness — I find it first.",
+      "icon": "🛡️"
+    },
+    {
+      "title": "CTF Competitions",
+      "description": "Competing in Capture The Flag events sharpens my problem-solving skills and keeps me at the cutting edge of security research.",
+      "icon": "🚩"
+    },
+    {
+      "title": "Open Source Security",
+      "description": "Contributing to the security community through open-source tools and sharing knowledge that makes the digital world safer for everyone.",
+      "icon": "🔐"
+    },
+    {
+      "title": "Threat Intelligence",
+      "description": "Analyzing emerging threats, studying attack patterns, and staying ahead of adversaries through continuous research and learning.",
+      "icon": "🔍"
+    }
+  ],
+  "contact": {
+    "email": "darpangc01@gmail.com",
+    "github": "yourusername",
+    "linkedin": "yourusername",
+    "availability": "Open to internships & collaborations"
+  }
+}
